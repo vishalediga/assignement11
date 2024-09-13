@@ -1,0 +1,19 @@
+.app-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.open-modal-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: white;
+  color: teal;
+  border: 2px solid teal;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.open-modal-btn:hover {
+  background: teal;
+  color: white;
+}
